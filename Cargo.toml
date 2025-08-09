@@ -1,0 +1,8 @@
+[package]
+name = "fast-down"
+description = "High level abstraction for using fast-pull to multiplex downloads"
+version = "3.0.0"
+edition = "2024"
+
+[dependencies]
+fast-pull = "2.2.3"
